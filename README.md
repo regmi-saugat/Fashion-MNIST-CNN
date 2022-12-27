@@ -5,4 +5,4 @@
 
 **Requirements**
 - [Jupyter Notebook](https://jupyter.org/)
-- [Python >= 3.6](https://www.python.org/downloads/release/python-360/)
+- [Python](https://www.python.org/)
