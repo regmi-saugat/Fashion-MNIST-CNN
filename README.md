@@ -6,3 +6,13 @@
 **Requirements**
 - [Jupyter Notebook](https://jupyter.org/)
 - [Python](https://www.python.org/)
+
+**Libraries and Dependencies**
+
+You can use the latest versions of the libraries & dependencies below:
+- NumPy
+- Scikit Learn
+- Tensorflow
+- Keras
+- Matplotlib 
+- Seaborn
